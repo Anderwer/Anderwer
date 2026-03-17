@@ -169,6 +169,146 @@
 
 ---
 
+## 📚 算法画像
+
+除了后端和 AI / 算法方向的学习，我也在持续维护自己的算法竞赛仓库。  
+这部分对我来说，不只是“刷题记录”，而是一套围绕 **比赛训练、模板沉淀、专题笔记、赛后复盘** 搭起来的个人算法体系。
+
+### ✨ 我的算法关键词
+
+<p>
+  <img src="https://img.shields.io/badge/刷题状态-持续更新中-ffb7d5?style=flat-square" />
+  <img src="https://img.shields.io/badge/竞赛平台-Codeforces-9d7bff?style=flat-square" />
+  <img src="https://img.shields.io/badge/整理方式-模板%20%2F%20笔记%20%2F%20复盘-8ec5fc?style=flat-square" />
+  <img src="https://img.shields.io/badge/仓库风格-长期维护型-7C83FD?style=flat-square" />
+</p>
+
+### 🧠 从仓库内容里能看出的专精方向
+
+结合我当前在 `Algorithm` 仓库里的模板整理、专题笔记和比赛分类，我现在更偏向这些方向：
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structure-Fenwick%20Tree%20%2F%20Segment%20Tree%20%2F%20DSU-ffb7d5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graph-LCA%20%2F%20Shortest%20Path%20%2F%20MST-b388ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/String-Hash%20%2F%20Manacher%20%2F%20Trie-8ec5fc?style=flat-square" />
+  <img src="https://img.shields.io/badge/Number%20Theory-qpow%20%2F%20Comb%20%2F%20Factorization-7C83FD?style=flat-square" />
+  <img src="https://img.shields.io/badge/DP-Digit%20DP%20%2F%20Prefix%20Sum%20%2F%20Mo's-ff9ecf?style=flat-square" />
+  <img src="https://img.shields.io/badge/Advanced-FFT%20%2F%20NTT%20%2F%20Rollback%20DSU-c77dff?style=flat-square" />
+</p>
+
+- **数据结构**：树状数组、线段树、并查集、ST 表、Trie
+- **图论**：最短路、拓扑排序、二分图、最小生成树、欧拉路、LCA、Functional Graph
+- **字符串算法**：字符串哈希、Manacher、Trie
+- **数论**：快速幂、组合数、质因数分解、逆元相关
+- **DP 与竞赛专题**：数位 DP、莫队、二维前缀和 / 差分
+- **进阶模板能力**：FFT / NTT、可持久化结构、可回退并查集
+
+### 🏷️ 算法能力标签墙
+
+<p>
+  <img src="https://img.shields.io/badge/Fenwick%20Tree-f8b4d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Segment%20Tree-cdb4ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSU-bde0fe?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ST%20Table-a2d2ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trie-ffc8dd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LCA-e0c3fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shortest%20Path-8ec5fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bipartite-f4b6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional%20Graph-b8c0ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/String%20Hash-ffafcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Manacher-cdb4db?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Number%20Theory-b5ead7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digit%20DP-f9c6d3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mo's%20Algorithm-d0bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FFT%20%2F%20NTT-a0c4ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codeforces%20Training-9d7bff?style=for-the-badge" />
+</p>
+
+### 📝 我的算法学习方式
+
+我比较喜欢把算法能力拆成三层来整理，而不是只留下零散 AC 代码：
+
+- `algorithm/`：存放**可以直接复用的竞赛模板**
+- `notes/`：存放**专题讲义、知识点笔记、学习总结**
+- `Codeforces/`：存放**比赛代码、按类型分类的训练记录，以及赛后总结**
+
+这样做的好处是：
+
+- 比赛时可以直接查模板
+- 复习时可以按专题回看笔记
+- 训练时可以按 `Div.2 / Div.3 / Educational / Global` 等类型复盘
+- 模板、笔记、比赛代码形成一个比较清晰的闭环
+
+### 📌 这块内容能体现出的特点
+
+从仓库的实际结构来看，我更偏向：
+
+- 不只做题，也做**模板成品化**
+- 不只写代码，也做**知识点沉淀**
+- 不只追求 AC，也重视**赛后复盘**
+- 不只是临时整理，而是希望它能成为一个**长期维护的个人竞赛仓库**
+
+### 🔗 对应仓库
+
+### [Algorithm](https://github.com/Anderwer/Algorithm)
+
+这个仓库是我长期维护的个人算法竞赛仓库，目前主要包含：
+
+- `Codeforces` 比赛代码与分类整理
+- 常用算法模板
+- 专题学习笔记
+- 赛后知识点总结
+
+它的目标不是做成“大而全”的资料堆，而是尽量保持成一套：
+
+- 能直接复用
+- 方便复习
+- 结构清晰
+- 适合长期维护
+
+的个人算法仓库。
+
+> 如果说主页更像个人名片，  
+> 那么 `Algorithm` 仓库就是我在算法、竞赛和模板整理这条线上持续积累下来的痕迹。
+
+---
+
+## ⭐ 精选项目
+
+### 1. [Algorithm](https://github.com/Anderwer/Algorithm)
+
+> 一个长期维护的个人算法竞赛仓库。  
+> 对我来说，它不是简单的“题目代码集合”，而是把 **模板沉淀、专题笔记、比赛训练、赛后复盘** 串成一条长期成长线的核心项目。
+
+<p>
+  <img src="https://img.shields.io/badge/Type-Competitive%20Programming%20Repository-ffb7d5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Template%20%2F%20Notes%20%2F%20Codeforces-b388ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Style-Clean%20Structure%20%26%20Long--term%20Maintenance-8ec5fc?style=flat-square" />
+</p>
+
+**项目亮点：**
+- `algorithm/`：把高频模板整理成更适合比赛直接复用的版本
+- `notes/`：把图论、数论、DP 等内容沉淀成可复习的专题笔记
+- `Codeforces/`：按 `Div.2 / Div.3 / Educational / Global` 等分类保留比赛代码与复盘痕迹
+
+**为什么它是我的代表作：**
+- 它能体现我对算法训练的持续投入
+- 它能体现我会把“做题”进一步整理成“可维护的个人体系”
+- 它能体现我不只追求 AC，也重视模板质量、结构清晰和赛后总结
+- 它把我的竞赛习惯、知识整理方式和长期积累都放在了同一个仓库里
+
+**能力标签：**
+<p>
+  <img src="https://img.shields.io/badge/Graph-9d7bff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structure-8ec5fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/String-ffafcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Number%20Theory-cdb4ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DP-f8b4d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codeforces-b8c0ff?style=for-the-badge" />
+</p>
+
+---
+
 ## 📌 未来想在这里补充
 
 之后我会慢慢把主页继续完善成更完整的样子，比如：
