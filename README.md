@@ -31,9 +31,9 @@
 现在的主要兴趣方向是：
 
 - 🧩 **后端开发**：喜欢接口设计、数据处理、服务逻辑和项目结构
-- 🤖 **AI / 算法**：对机器学习、智能应用、算法题和模型落地很感兴趣
+- 🤖 **AI / 机器学习**：对机器学习、语音识别、智能应用落地和模型能力接入真实场景很感兴趣
 - 🐍 **Python 生态**：这是我最常用的语言，也是我目前最顺手的工具
-- ✨ **作品感开发**：希望写出来的东西不只是“能跑”，而是有一点完整作品的感觉
+- ✨ **作品感开发**：希望写出来的东西不只是“能跑”，而是既有技术深度，也有完整作品的感觉
 
 > 对我来说，代码不只是实现功能。  
 > 它也可以是表达思路、审美和热爱的方式。
@@ -68,6 +68,9 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Faster%20Whisper-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -305,6 +308,40 @@
   <img src="https://img.shields.io/badge/Number%20Theory-cdb4ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DP-f8b4d9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Codeforces-b8c0ff?style=for-the-badge" />
+</p>
+
+### 2. [Neuro-slice](https://github.com/Anderwer/Neuro-slice)
+
+> 一个面向歌回 / 音乐直播回放的本地桌面切片工具。  
+> 它把 **语音识别、歌曲片段检测、可选 LLM 识曲、音视频导出、桌面 GUI** 组合成一个完整的 AI 应用项目，也更能体现我在机器学习与智能工具落地这条线上的钻研。
+
+<p>
+  <img src="https://img.shields.io/badge/Type-AI%20Desktop%20Tool-ffb7d5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-ASR%20%2F%20Audio%20Processing%20%2F%20GUI-b388ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%2F%20faster--whisper%20%2F%20FFmpeg-8ec5fc?style=flat-square" />
+</p>
+
+**项目亮点：**
+- 使用 `faster-whisper` 进行语音识别，并围绕长视频回放生成可复查的 `manifest`
+- 自动检测歌曲片段，并支持导出每首歌对应的独立音视频切片
+- 提供本地桌面 GUI，而不是停留在脚本层面，整体更接近可使用的产品
+- 支持可选 LLM 识曲，把模型能力接入真实工作流
+- 采用主环境 + legacy 检测环境的双环境架构，兼顾准确率与可维护性
+
+**为什么它能代表我的 AI 方向：**
+- 它不是简单调用模型接口，而是把模型能力真正落到了音视频处理场景里
+- 它体现了我对机器学习应用落地、工具化和用户体验的关注
+- 它涉及语音识别、切片导出、GUI 编排、依赖隔离和运行时桥接
+- 它说明我在做 AI 项目时，也会认真处理工程结构和长期维护问题
+
+**能力标签：**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-9d7bff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASR-8ec5fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Audio%20%26%20Video-ffafcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop%20GUI-cdb4ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-f8b4d9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-b8c0ff?style=for-the-badge" />
 </p>
 
 ---
